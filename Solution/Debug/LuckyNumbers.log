@@ -1,0 +1,8 @@
+﻿  Driver.cpp
+C:\Users\Matthew\source\repos\LuckyNumbers\Driver.cpp(52,40): warning C4554:  '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\Matthew\source\repos\LuckyNumbers\Driver.cpp(54,29): warning C4244:  '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Matthew\source\repos\LuckyNumbers\Driver.cpp(58,40): warning C4554:  '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\Matthew\source\repos\LuckyNumbers\Driver.cpp(60,29): warning C4244:  '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Matthew\source\repos\LuckyNumbers\Driver.cpp(68,67): warning C4244:  '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Matthew\source\repos\LuckyNumbers\Driver.cpp(78,47): warning C4244:  '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Matthew\source\repos\LuckyNumbers\Driver.cpp(87,47): warning C4244:  '+=': conversion from 'double' to '__int64', possible loss of data

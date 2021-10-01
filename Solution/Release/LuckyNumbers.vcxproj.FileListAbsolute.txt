@@ -1,0 +1,3 @@
+C:\Users\Matthew\source\repos\LuckyNumbers\Release\LuckyNumbers.exe
+C:\Users\Matthew\source\repos\LuckyNumbers\Release\LuckyNumbers.exe.lastcodeanalysissucceeded
+C:\Users\Matthew\source\repos\LuckyNumbers\Release\NativeCodeAnalysis.read.1.tlog

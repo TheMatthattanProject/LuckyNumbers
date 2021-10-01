@@ -1,0 +1,11 @@
+﻿  Driver.cpp
+C:\Users\Matthew\source\repos\LuckyNumbers\Driver.cpp(54,29): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Matthew\source\repos\LuckyNumbers\Driver.cpp(60,29): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Matthew\source\repos\LuckyNumbers\Driver.cpp(68,67): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Matthew\source\repos\LuckyNumbers\Driver.cpp(78,47): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Matthew\source\repos\LuckyNumbers\Driver.cpp(87,47): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 107 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  LuckyNumbers.vcxproj -> C:\Users\Matthew\source\repos\LuckyNumbers\Release\LuckyNumbers.exe
